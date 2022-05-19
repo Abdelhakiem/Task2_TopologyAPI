@@ -26,5 +26,6 @@ Task2_TopologyAPI/src/com/TopologyApi/
 
 ## Note
 
-4 Json files are added for testing perposes : Test1.json, Test2.json, Test3.json, Test4.json
+4 Json files are added for testing purposes : Test1.json, Test2.json, Test3.json, Test4.json.
+
 top1.json , top2.json , top3.json, top4.json are the same files but from writeJson method.
